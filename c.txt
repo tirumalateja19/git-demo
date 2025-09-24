@@ -1,0 +1,1 @@
+This is new file to see the working of master before this fire master pointed towards the 3rd commit that is "staged"

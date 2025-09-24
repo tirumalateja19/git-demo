@@ -1,0 +1,2 @@
+This is a new txt file
+just tracked,but this msg is untracked

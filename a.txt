@@ -1,5 +1,6 @@
 First line of git demo
-second line but untracked
-
-changes from initial commit
+Second line but untracked
+merged-floating:
+Changes from initial commit
 Changing contents from fb46707 state
+master:this is from rebase
