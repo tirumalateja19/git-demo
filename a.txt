@@ -1,3 +1,4 @@
 First line of git demo
 second line but untracked
 changes from initial commit
+Changing contents from fb46707 state
